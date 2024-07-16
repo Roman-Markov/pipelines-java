@@ -1,4 +1,5 @@
 [![Build Status](https://dorelsports.visualstudio.com/PipelineTest/_apis/build/status%2FRoman-Markov.pipelines-java?branchName=main)](https://dorelsports.visualstudio.com/PipelineTest/_build/latest?definitionId=155&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
